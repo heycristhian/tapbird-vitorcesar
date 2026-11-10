@@ -1,0 +1,11 @@
+{
+  "name": "tapbird",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Jogo de toque para voar feito para estudo (MVP).",
+  "type": "module",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "node --test tests/"
+  }
+}
